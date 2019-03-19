@@ -65,11 +65,15 @@ gold:
   max: 8
   list:
    -
-     url: https://www.workwave.com/
+     url: https://www.workwave.com/?utm_source=reactjsday
      image: workwave.svg
    -
-      url: https://www.ideato.it/?utm_source=laravelday
+      url: https://www.ideato.it/?utm_source=reactjsday
       image: ideato.svg
+   -
+      url: https://www.linkme.it/?utm_source=reactjsday
+      image: linkme.svg
+      
 silver:
   price: € 750
   offer:
