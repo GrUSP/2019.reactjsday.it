@@ -10,6 +10,7 @@ call_for_paper: true
 talks_available: false
 schedule_available: false
 training_available: false
+scholarship_available: true
 
 iubenda:
   cookiePolicyId: 63963515
