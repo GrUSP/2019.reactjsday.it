@@ -11,3 +11,21 @@ list:
 #    last_name:
 #    twitter:
 #    trainer: false
+
+  -
+    id: maurizio-mangione
+    description: Developer Advocate, DAZN
+    image: maurizio-mangione.jpg
+    first_name: Maurizio
+    last_name: Mangione 
+    twitter: granze
+    trainer: false
+  -
+    id: kathleen-mcmahon
+    description: Senior Frontend Engineer and Design System Tech Lead, O'Reilly Media
+    image: kathleen-mcmahon.jpg
+    first_name: Kathleen
+    last_name: McMahon 
+    twitter: resource11
+    trainer: false
+    
