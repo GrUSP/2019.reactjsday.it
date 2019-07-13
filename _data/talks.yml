@@ -3,3 +3,17 @@
 #  title:
 #  keynote:
 #  extract: >
+-
+  speaker_id: maurizio-mangione
+  title: "Coding with Web Standards"
+  keynote: false
+  extract: >
+    Designing with Web Standard by Jeffrey Zeldman changed the way we built websites at the beginning of 2000. This amazing book helped front-end developers (called web designers at the time) to understand how and why using the correct tags and approaches it's a good idea. A lot of time passed and Web Standards continue to evolve. Are we embracing them or are we fighting them?
+    During this talk, we'll hurl back to 2000 and then return to our days on a trip full of standards,  less-standard things, weird web nostalgia moments and the secret for a better web.
+-
+  speaker_id: kathleen-mcmahon
+  title: "Accessibility-flavored React components make your design system delicious!"
+  keynote: false
+  extract: >
+    Design systems are a popular way for teams to flavor their design and development workflow. However, an often-missing ingredient in many design systems is a focus on accessibility best practices — especially when component libraries are involved. 
+    In this talk, we’ll take a look at how you can mix some commonly-used components with the ingredients of accessibility. Pair this with best practices guidance in your documentation, and you’ll have the recipe for a delectably inclusive design system.
