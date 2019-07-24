@@ -17,3 +17,18 @@
   extract: >
     Design systems are a popular way for teams to flavor their design and development workflow. However, an often-missing ingredient in many design systems is a focus on accessibility best practices — especially when component libraries are involved. 
     In this talk, we’ll take a look at how you can mix some commonly-used components with the ingredients of accessibility. Pair this with best practices guidance in your documentation, and you’ll have the recipe for a delectably inclusive design system.
+-
+  speaker_id: majid-hajian
+  title: "Parallel computing in React"
+  keynote: false
+  extract: >
+    User is working with your application, suddenly, UI freezes and probably, one of the CPU cores is burning! They cannot do anything. The only perception you can feel is as hot as a hell metal case of the laptop. Although this sounds like a horror movie, this is your application that cannot leverage modern APIs to lift heavy computation to a different thread where consequently user suffers the pain.
+    Modern features like Web Workers, WebAssembly, Worklets, and Service Worker allow us to leverage multithreading computing to run tasks parallelly which at the end, makes the user feel like in a rainbow paradise instead of a nightmare, even though  JavaScript is a single-threaded programming language! 
+    In this session, I am going to show my experience running jobs in parallel on a React application that will provide a pleasant user experience and exciting development.
+-
+  speaker_id: isha-kasliwal
+  title: "How Typescript Can Power Design Systems"
+  keynote: false
+  extract: >
+    Design Systems are highly popular and beneficial in bridging the gap between design and development. The inclusion of React.js in Design Systems helped introduce the concept of functional programming as it relates to building components for reuse and scale. What happens if we take it a step further? With Typescript, a superset of Javascript that can be used in conjunction with React.js, your Design System can reach a whole new level of efficiency and clarity. By using Typescript in your Design System, you can become more thoughtful about view-layer components with strongly-typed data models -- even style-specific props can be typed, offering visual consistency and ensuring prop purpose. Allowing data to be passed between view-specific components with exportable interfaces makes communicating the intent and limits of your component seamless. Not only do you get to include static type-checking at compile time, but you can use interfaces to describe objects with different properties, make your IDE respond to the code you write, and much more.
+    This talk will explore how UI engineers, from beginner to experienced, can harness the power of Typescript to help enforce better component standards in the code and allow large-scale Javascript projects to succeed. I will additionally include real-life examples of how we're making Typescript work for our Design System at Twitch, and how it's improving designer/developer relationships. By the end of this talk, you will walk away with actionable ideas to implement in your Design Systems codebase!
