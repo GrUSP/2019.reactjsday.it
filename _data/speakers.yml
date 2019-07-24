@@ -28,4 +28,20 @@ list:
     last_name: McMahon 
     twitter: resource11
     trainer: false
+  -
+    id: majid-hajian
+    description: 
+    image: majid-hajian.jpg
+    first_name: Majid
+    last_name: Hajian 
+    twitter: mhadaily
+    trainer: false
+  -
+    id: isha-kasliwal
+    description: Senior UI/UX Designer/Developer, Twitch
+    image: isha-kasliwal.png
+    first_name: Isha
+    last_name: Kasliwal 
+    twitter: ikasliwal
+    trainer: false
     
