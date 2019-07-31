@@ -44,4 +44,12 @@ list:
     last_name: Kasliwal 
     twitter: ikasliwal
     trainer: false
+  -
+    id: narendra-shetty
+    description: Senior Software Engineer, Twilio
+    image: narendra-shetty.jpg
+    first_name: Narendra
+    last_name: Shetty
+    twitter: narendra_shetty
+    trainer: false
     
