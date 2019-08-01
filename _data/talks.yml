@@ -39,3 +39,16 @@
   extract: >
     For backend services having a flexible API is a common practice that allows you to combine different APIs as if they were LEGO blocks and solve almost any business need. At Twilio we’ve been doing REST APIs for over 10 years. When we recently decided to ship a software that has a working UI out of the box, we still wanted to make sure that it is as flexible as our REST APIs.
     In this talk we’ll dive into how we ended up architecting a programmable UI platform using React that both allows you to have a fully working UI out of the box but also customize every functionality and user experience of it to your needs using the full power of React.
+-
+  speaker_id: surya-ambrose
+  title: "Kickstarting libraries of shared React components for multiple teams"
+  keynote: false
+  extract: >
+    In a company, as the technical teams grow and work on different projects, the question of creating a set of common components naturally arises.
+    This is what happened to us: over the years different teams redeveloped very similar components, from simple UI elements to complete business features. 10 months ago, it was time for us to take a step back and think: how can we do better?
+    With this talk you will:
+    - Discover the technical design that worked for us, a mono-repository architecture with helpful tooling: Storybook, Lerna, React, Flow, Yeoman… 🤓
+    - Deep-dive in some of those solutions that made a difference: Atomic Design, Breaking changes, Themes, Performance... 
+    - Take a peek at our indicators and processes used to make sure we maintain high quality and speed of development. 📈
+    Today, six teams re-use and contribute to our common libraries on a daily basis, and other departments are expressing a big interest in it. 
+    And we even worked through extracting performance indicators, proving us that it was worth maintaining such a collaborative project - that could help you convince your co-workers that it's worth investing time in such a project. You won't regret it!
