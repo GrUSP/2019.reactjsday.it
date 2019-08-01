@@ -52,4 +52,12 @@ list:
     last_name: Shetty
     twitter: narendra_shetty
     trainer: false
+  -
+    id: surya-ambrose
+    description: Lead developer, Theodo
+    image: surya-ambrose.jpeg
+    first_name: Surya
+    last_name: Ambrose
+    twitter: AmbroseSurya
+    trainer: false
     
