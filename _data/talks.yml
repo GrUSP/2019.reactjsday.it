@@ -16,7 +16,6 @@
     - Take a peek at our indicators and processes used to make sure we maintain high quality and speed of development. 📈
     Today, six teams re-use and contribute to our common libraries on a daily basis, and other departments are expressing a big interest in it. 
     And we even worked through extracting performance indicators, proving us that it was worth maintaining such a collaborative project - that could help you convince your co-workers that it's worth investing time in such a project. You won't regret it!
-ocumentation, and you’ll have the recipe for a delectably inclusive design system.
 -
   speaker_id: majid-hajian
   title: "Parallel computing in React"
@@ -45,7 +44,7 @@ ocumentation, and you’ll have the recipe for a delectably inclusive design sys
   keynote: false
   extract: >
     Design systems are a popular way for teams to flavor their design and development workflow. However, an often-missing ingredient in many design systems is a focus on accessibility best practices — especially when component libraries are involved. 
-    In this talk, we’ll take a look at how you can mix some commonly-used components with the ingredients of accessibility. Pair this with best practices guidance in your d
+    In this talk, we’ll take a look at how you can mix some commonly-used components with the ingredients of accessibility. Pair this with best practices guidance in your documentation, and you’ll have the recipe for a delectably inclusive design system.
 -
   speaker_id: anastasiia-miroshnichenko
   title: "Why React the Web AR"
