@@ -73,52 +73,55 @@ list:
         - Come testare i diversi flussi utente senza un back-end funzionante
         - Come scrivere test end-to-end (E2E) efficaci
         - Come integrare i test nei processi di sviluppo e di Continuous Integration
+
       Andremo ad utilizzare Jest, React Testing Library, Cypress e tutti i loro plugin utili ad aumentare la produttività quotidiana e l’affidabilità dei test.
+
       Alterneremo spiegazioni teoriche a sessioni di live coding, al termine del corso verrà rilasciato il codice sorgente di tutti gli esercizi, il materiale utilizzato per le spiegazioni ed altri materiali di approfondimento.
-      Argomenti
-      Panoramica dei test
-      Jest
-        i built-in matcher
-        creare un custom matcher
-        watch mode
-        JSDOM
-        utilizzo di chrome-devtools per debuggare un test di Jest con i breakpoint
-      React Testing Library
-        il confronto con Enzyme
-        cosa sono gli implementation detail
-        come testare quello che l’utente usa
-        come simulare eventi dell’utente
-        i provider
-        i testing hook
-        shallow rendering
-      Mocking di funzioni e di moduli
-      Cosa stiamo cercando di testare veramente?
-        il filo sottile tra unit testing ed integration testing
-        come e perchè rendere verboso un test
-        cosa è meglio evitare di testare
-      Visual Regression Testing
-      Snapshot testing: quando evitarli e quando sono utili
-      Cos'è un test E2E
-        Automazione del browser
-        Pro e contro dei test E2E paragonati ai UI integration test
-      Cypress
-        il Test Runner
-        attese automatiche
-        screenshot e video automatici
-        esecuzione asincrona
-      Cypress come strumento di sviluppo, non solo di test
-      Best practices
-        come identificare gli elementi in pagina
-        attese al posto delle pause, concetto di deterministic event
-        utilizzo corretto delle asserzioni
-      Perchè mantenere i test il più semplici possibile
-      Utilità per gli altri membri del team
-        convenzioni di naming e script dedicati
-        test di monitoraggio
-      Utilizzo avanzato di cypress
-        comandi custom
-      Visual Regression Testing per l'intera web-app
-      Continuous Integration
+
+      **Argomenti**
+        - Panoramica dei test
+        - Jest
+          - i built-in matcher
+          - creare un custom matcher
+          - watch mode
+          - JSDOM
+        - utilizzo di chrome-devtools per debuggare un test di Jest con i breakpoint
+        - React Testing Library
+          - il confronto con Enzyme
+          - cosa sono gli implementation detail
+          - come testare quello che l’utente usa
+          - come simulare eventi dell’utente
+          - i provider
+          - i testing hook
+          - shallow rendering
+        - Mocking di funzioni e di moduli
+        - Cosa stiamo cercando di testare veramente?
+          - il filo sottile tra unit testing ed integration testing
+          - come e perchè rendere verboso un test
+          - cosa è meglio evitare di testare
+        - Visual Regression Testing
+        - Snapshot testing: quando evitarli e quando sono utili
+        - Cos'è un test E2E
+          - Automazione del browser
+          - Pro e contro dei test E2E paragonati ai UI integration test
+        - Cypress
+          - il Test Runner
+          - attese automatiche
+          - screenshot e video automatici
+          - esecuzione asincrona
+        - Cypress come strumento di sviluppo, non solo di test
+        - Best practices
+          - come identificare gli elementi in pagina
+          - attese al posto delle pause, concetto di deterministic event
+          - utilizzo corretto delle asserzioni
+        - Perchè mantenere i test il più semplici possibile
+        - Utilità per gli altri membri del team
+          - convenzioni di naming e script dedicati
+          - test di monitoraggio
+        - Utilizzo avanzato di cypress
+          - comandi custom
+        - Visual Regression Testing per l'intera web-app
+        - Continuous Integration
     addressed_info: |
       Questo corso è rivolto a tutti gli sviluppatori che già utilizzano React ma non hanno ancora iniziato, o non sono ancora riusciti, a testare con successo le proprie web-app React. Al termine del corso sarai in grado di applicare i principi fondamentali delle metodologie di testing per comprendere cosa e come testare in modo efficace.
     useful_info: |
