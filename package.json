@@ -4,9 +4,9 @@
   "description": "Conference site",
   "main": "index.js",
   "devDependencies": {
-    "dustman": "^1.11.55",
+    "dustman": "git+https://github.com/grusp/dustman.git#ebf8e7",
     "frontsize": "git+https://github.com/ideatosrl/frontsize.git#372f2a6",
-    "gulp": "github:gulpjs/gulp#4.0"
+    "gulp": "^4.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/GrUSP/2017.reactjsday.it#readme",
   "dependencies": {
-    "dustman": "^1.11.55",
     "jquery": "^3.1.1",
     "moment": "^2.17.1"
   }
