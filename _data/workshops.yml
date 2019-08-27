@@ -29,9 +29,9 @@ list:
         - Proxy Object
         - MobX
     addressed_info: |
-      Good Knowledge of React and JavaScript
+      A good Knowledge of React and JavaScript
     useful_info: |
-      Una versione di node maggiore di 6 installata sulle macchine
+      To run the exercises on your machine you will need a ready Node.js enviroment
   -
     slug: react-testing-101
     title: "React Testing 101: component, integration, and end-to-end testing"
