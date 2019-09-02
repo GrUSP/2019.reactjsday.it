@@ -62,3 +62,8 @@ list:
     name: React Bolivia
     image: react-bolivia.png
     site: "https://www.facebook.com/ReactBolivia/"
+    
+  -
+    name: ReactJs Milano
+    image: reactjs_milano.png
+    site: "https://www.meetup.com/it-IT/React-JS-Milano/"
