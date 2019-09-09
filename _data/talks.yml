@@ -17,6 +17,13 @@
     Today, six teams re-use and contribute to our common libraries on a daily basis, and other departments are expressing a big interest in it. 
     And we even worked through extracting performance indicators, proving us that it was worth maintaining such a collaborative project - that could help you convince your co-workers that it's worth investing time in such a project. You won't regret it!
 -
+  speaker_id: matteo-frana
+  title: "Reusing Stateful Logic in React: HOC vs Render Props vs Hooks"
+  keynote: false
+  extract: >
+    How to reuse stateful logic in React. Advantages and drawbacks of Higher Order Components, Render Props and Hooks. 
+    How to refactor code to use the new React Hooks API.
+-
   speaker_id: majid-hajian
   title: "Parallel computing in React"
   keynote: false
