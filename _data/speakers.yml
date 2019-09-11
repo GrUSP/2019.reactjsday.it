@@ -19,7 +19,7 @@ list:
     first_name: Surya
     last_name: Ambrose
     twitter: AmbroseSurya
-    trainer: false
+    trainer: false   
   -
     id: matteo-frana
     description: Founder, F2.net
@@ -76,4 +76,13 @@ list:
     last_name: Shetty
     twitter: narendra_shetty
     trainer: false
+
+  -
+    id: farzad-yousefzadeh 
+    description: Senior Software Engineer, Futurice.
+    image: farzad-yousefzadeh.jpg
+    first_name: Farzad
+    last_name: YousefZadeh
+    twitter: farzad_yz
+    trainer: false    
     
