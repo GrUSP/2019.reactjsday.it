@@ -67,3 +67,10 @@
   extract: >
     For backend services having a flexible API is a common practice that allows you to combine different APIs as if they were LEGO blocks and solve almost any business need. At Twilio we’ve been doing REST APIs for over 10 years. When we recently decided to ship a software that has a working UI out of the box, we still wanted to make sure that it is as flexible as our REST APIs.
     In this talk we’ll dive into how we ended up architecting a programmable UI platform using React that both allows you to have a fully working UI out of the box but also customize every functionality and user experience of it to your needs using the full power of React.
+-
+  speaker_id: farzad-yousefzadeh
+  title: "Tackle React component complexity using Reactive Statecharts"
+  keynote: false
+  extract: >
+    There are many UI components that carry a huge deal of complexity. Usually, we deal with complexity in UI without noticing it. As truly said, the devil is in the detail. We usually don't notice this until it's too late! That's why no matter how clean our components and their API surface looks when the first attempt is out, many bugs pop out soon and adding new features gives us a hard time! In this talk, I will try to demonstrate how we underestimate the complexity in React UI components and propose an approach to simplify this effort by modeling the behavior of the component using Reactive Statecharts.
+    I'll go through the thinking model of how to tackle this complexity in developing the component, how to think properly about the edge cases and how to model this explicitly using Reactive Statecharts.
