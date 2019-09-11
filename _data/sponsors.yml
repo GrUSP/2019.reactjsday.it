@@ -97,6 +97,9 @@ silver:
     -
       url: https://www.balsamiq.com?utm_source=reactjsday
       image: balsamiq.svg
+    -
+      url: http://www.f2.net/?utm_source=reactjsday
+      image: f2net.svg      
 
 bronze:
   price: € 500
